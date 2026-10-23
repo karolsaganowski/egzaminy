@@ -46,7 +46,11 @@ for(int i =1; i<=5; i++)
 {
     Console.WriteLine($"Hasło nr {i}: {generuj()}");
 }
-
+// nazwa funkcji: generuj
+// opis funkcji: Genreuje hasło wedłóg kryteriów podanych w zadaniu
+// parametry: brak
+// zwracany typ i opis: string - wygenerowane hasło
+// autor: karol saganowski
 string generuj()
 {
     string haslo = "";
