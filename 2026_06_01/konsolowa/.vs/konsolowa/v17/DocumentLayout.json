@@ -36,15 +36,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "konsolowa",
+              "Title": "konsolowa.csproj",
               "DocumentMoniker": "C:\\Users\\karol.saganowski\\Github\\egzaminy\\2026_06_01\\konsolowa\\konsolowa\\konsolowa.csproj",
               "RelativeDocumentMoniker": "konsolowa\\konsolowa.csproj",
               "ToolTip": "C:\\Users\\karol.saganowski\\Github\\egzaminy\\2026_06_01\\konsolowa\\konsolowa\\konsolowa.csproj",
               "RelativeToolTip": "konsolowa\\konsolowa.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-10-23T10:30:26.552Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-23T10:30:26.552Z"
             }
           ]
         }
